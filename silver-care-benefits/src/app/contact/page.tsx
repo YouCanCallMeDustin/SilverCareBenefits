@@ -74,7 +74,7 @@ export default function ContactPage() {
             Get in Touch
           </h1>
           <p className="text-base text-foreground/80 max-w-2xl mx-auto leading-relaxed">
-            Have questions about notarization fees or need Medicare enrollment help? Send us a message, and our Spokane team will reach out shortly.
+            Have questions about notarization fees or need Medicare enrollment help? Send us a message, and Amber or one of our Reno team members will reach out shortly.
           </p>
         </div>
       </section>
@@ -256,7 +256,7 @@ export default function ContactPage() {
                       <div className="w-8 h-8 rounded-full bg-primary-light text-primary flex items-center justify-center shrink-0">
                         <MapPin className="w-4 h-4" />
                       </div>
-                      <span>Serving Spokane, WA & Surrounding Regions</span>
+                      <span>Serving Reno, NV & Surrounding Regions</span>
                     </div>
 
                     <div className="flex items-center gap-3">
@@ -272,10 +272,10 @@ export default function ContactPage() {
               {/* Map Embed */}
               <AnimatedSection>
                 <Card className="overflow-hidden border border-card-border shadow-sm rounded-3xl h-[280px]">
-                  {/* Embedded Google Maps centered around Spokane, WA */}
+                  {/* Embedded Google Maps centered around Reno, NV */}
                   <iframe
                     title="Silver Care Benefits Service Area Map"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d171965.74233777553!2d-117.56637825!3d47.65878025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x549c148e6db585df%3A0xdf7e3ef0337b51b7!2sSpokane%2C%20WA!5e0!3m2!1sen!2sus!4v1716382103456!5m2!1sen!2sus"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d98436.4526848466!2d-119.88046465494412!3d39.52963212876643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809940ae9292a07d%3A0x40f1d93540d6411!2sReno%2C%20NV!5e0!3m2!1sen!2sus!4v1716400000000!5m2!1sen!2sus"
                     width="100%"
                     height="100%"
                     style={{ border: 0 }}

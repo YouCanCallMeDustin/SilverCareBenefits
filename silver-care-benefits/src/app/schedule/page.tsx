@@ -70,7 +70,7 @@ export default function SchedulePage() {
                     </div>
                     <h3 className="font-serif font-bold text-base text-foreground">Need Urgent Dispatch?</h3>
                     <p className="text-xs sm:text-sm text-foreground/75 leading-relaxed">
-                      If you require emergency notary signings outside of standard hours, or directly to a local Spokane hospital or care facility, please call us directly for immediate dispatch support.
+                      If you require emergency notary signings outside of standard hours, or directly to a local Reno hospital or care facility, please call us directly for immediate dispatch support.
                     </p>
                   </div>
 

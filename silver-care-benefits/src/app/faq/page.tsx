@@ -15,7 +15,7 @@ const FAQS: FAQItem[] = [
   // Notary Category
   {
     question: "What is a Mobile Notary, and where do you travel?",
-    answer: "A Mobile Notary is a commissioned notary public who travels to your location to execute documents. We travel to private homes, hospitals, rehabilitation facilities, assisted living centers, libraries, and offices throughout Spokane and surrounding counties.",
+    answer: "A Mobile Notary is a commissioned notary public who travels to your location to execute documents. We travel to private homes, hospitals, rehabilitation facilities, assisted living centers, libraries, and offices throughout Reno and surrounding counties.",
     category: "notary",
   },
   {
@@ -31,7 +31,7 @@ const FAQS: FAQItem[] = [
   // RON Category
   {
     question: "What is a Remote Online Notary (RON) and is it legal?",
-    answer: "Remote Online Notarization (RON) is the legal process of signing and notarizing documents digitally over secure live audio-video technology. It was officially legalized in Washington State (and recognized nationwide via interstate reciprocity) under strict security regulations. It carries the exact same legal weight as a traditional in-person notarization.",
+    answer: "Remote Online Notarization (RON) is the legal process of signing and notarizing documents digitally over secure live audio-video technology. It was officially legalized in Nevada (and recognized nationwide via interstate reciprocity) under strict security regulations. It carries the exact same legal weight as a traditional in-person notarization.",
     category: "ron",
   },
   {

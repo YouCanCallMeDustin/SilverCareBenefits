@@ -52,7 +52,7 @@ export default function AboutPage() {
                 Compassionate Administration Built on Trust
               </h3>
               <p className="text-sm sm:text-base text-foreground/70 leading-relaxed">
-                Silver Care Benefits was founded to serve as a reliable, patient, and modern resource for families and businesses. We noticed that two of the most critical and confusing milestones in life—navigating legal document validations and transitioning into senior healthcare benefits—are often surrounded by stress, complexity, and single-carrier sales pitches.
+                Silver Care Benefits was founded by Amber Matthews-Perry to serve as a reliable, patient, and modern resource for families and businesses. Living in Reno, NV, Amber noticed that two of the most critical and confusing milestones in life—navigating legal document validations and transitioning into senior healthcare benefits—are often surrounded by stress, complexity, and single-carrier sales pitches.
               </p>
               <p className="text-sm sm:text-base text-foreground/70 leading-relaxed">
                 We set out to create a service that prioritizes the client first. For notary services, this means offering convenient mobile services at private homes, hospitals, and care facilities, alongside secure digital online notarization. For Medicare, it means acting as independent counselors who comparison-shop multiple plans to find the right coverage for your budget and medical provider preferences.
