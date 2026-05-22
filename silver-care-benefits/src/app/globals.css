@@ -12,19 +12,6 @@
   --card-border: rgba(192, 192, 192, 0.3);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #121210; /* Very dark olive-gray warm tone */
-    --foreground: #F1F1ED;
-    --primary: #1da365;
-    --primary-hover: #178351;
-    --primary-light: #162a1f;
-    --silver: #4A4A48;
-    --charcoal: #F1F1ED;
-    --card-bg: #1A1A17;
-    --card-border: rgba(74, 74, 72, 0.4);
-  }
-}
 
 @theme inline {
   --color-background: var(--background);
